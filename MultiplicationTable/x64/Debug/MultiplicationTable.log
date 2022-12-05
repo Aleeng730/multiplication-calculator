@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+C:\Users\aling\source\repos\MultiplicationTable\MyForm.h(162,23): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\aling\source\repos\MultiplicationTable\MyForm.cpp(8,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  MultiplicationTable.vcxproj -> C:\Users\aling\source\repos\MultiplicationTable\x64\Debug\MultiplicationTable.exe

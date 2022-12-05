@@ -1,0 +1,5 @@
+C:\Users\aling\source\repos\MultiplicationTable\x64\Debug\MultiplicationTable.vcxproj.AssemblyReference.cache
+C:\Users\aling\source\repos\MultiplicationTable\x64\Debug\MultiplicationTable.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\aling\source\repos\MultiplicationTable\x64\Debug\MultiplicationTable.MyForm.resources
+C:\Users\aling\source\repos\MultiplicationTable\x64\Debug\MultiplicationTable.vcxproj.GenerateResource.cache
+C:\Users\aling\source\repos\MultiplicationTable\x64\Debug\MultiplicationTable.exe
